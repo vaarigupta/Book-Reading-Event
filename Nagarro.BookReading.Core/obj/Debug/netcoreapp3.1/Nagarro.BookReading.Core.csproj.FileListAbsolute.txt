@@ -33,4 +33,3 @@ D:\Practice\Book-Reading-Event\Nagarro.BookReading.Core\obj\Debug\netcoreapp3.1\
 D:\Practice\Book-Reading-Event\Nagarro.BookReading.Core\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Core.csproj.CoreCompileInputs.cache
 D:\Practice\Book-Reading-Event\Nagarro.BookReading.Core\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Core.dll
 D:\Practice\Book-Reading-Event\Nagarro.BookReading.Core\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Core.pdb
-D:\Practice\Book-Reading-Event\Nagarro.BookReading.Core\obj\Debug\netcoreapp3.1\Nagarro.BookReading.Core.csprojAssemblyReference.cache

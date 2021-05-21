@@ -14,7 +14,5 @@ namespace Nagarro.BookReading.Infrastructure.Data
         public DbSet<Event> Events { get; set; }
 
         public DbSet<Comment> Comment { get; set; }
-
-        public DbSet<Invities> Invities { get; set; }
     }
 }
